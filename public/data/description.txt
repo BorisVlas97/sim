@@ -1,0 +1,14 @@
+Create a small Symfony + Angular app for orders management (using data from orders.json)
+
+Requirements:
+
+1. Fetch orders from backend and show them in a <table>
+  You can use the JSON file as data source so you won't have to create a database
+
+2. Add pagination (10 orders/page)
+
+3. Allow users to cancel an order (including the backend code)
+  The final part - when the data should pe saved - can be skipped.
+
+4. Use DDD design pattern for backend logic
+
