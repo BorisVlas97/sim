@@ -1,6 +1,7 @@
 # sim
 
-Go Inside the project
+Go Inside the project<br>
+Rename .env.example to .env
 
 <h2>Install composer dependencies</h2>
 <code>$ composer install</code>
